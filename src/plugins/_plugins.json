@@ -24,7 +24,7 @@
     "icon": "https://raw.githubusercontent.com/snapshot-labs/snapshot/develop/src/plugins/_template/logo.png",
     "defaults": {
       "space": {
-        "safes": {}
+        "safes": []
       },
       "proposal": {
         "safe": "",
